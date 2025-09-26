@@ -17,6 +17,23 @@ Admin paneli sayesinde kullanıcılar, CV sayfasındaki tüm içerikleri kolayca
 | Versiyon Kontrol   | Git & GitHub                       | 🌐      |
 
 ---
+## 📸 Ekran Görüntüleri
+### Veritabanı
+![Veritabanı Ekranı](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/veritabani.png)
+
+### Login
+![Login Ekranı](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/Login.png)
+
+### Cv Sayfası İletişim
+![İletişim](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/CVIletisim.png)
+
+### Cv Sayfası Deneyim
+![Deneyim](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/CvDeneyim.png)
+
+###  Cv Sayfası Eğitim
+![Eğitim](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/CvEgitim.png)
+
+---
 
 ## 🚀 Kurulum Adımları
  
