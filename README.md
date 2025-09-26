@@ -24,6 +24,8 @@ Depoyu klonlayın:
     ```bash
    git clone https://github.com/busratay/MvcCv.git
    ```
+---
+
 ## 📄 Lisans
 
 Bu proje açık kaynak değildir yalnızca eğitim amacıyla paylaşılmıştır.
