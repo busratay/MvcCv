@@ -1,7 +1,14 @@
 # 📄 CV Sitesi Projesi
 
-Bu proje, kendine ait yönetilebilir bir CV sitesine sahip olmak isteyenler için geliştirilmiştir.  
-Admin paneli sayesinde kullanıcılar, CV sayfasındaki tüm içerikleri kolayca ekleyebilir, güncelleyebilir veya silebilir.  
+Bu proje, kendi yönetilebilir CV (özgeçmiş) sitesine sahip olmak isteyen kullanıcılar için geliştirilmiştir.
+
+Özellikler
+
+Admin Paneli: Kullanıcılar, CV sayfasındaki tüm içerikleri (kişisel bilgiler, eğitim, deneyim, beceriler vb.) kolayca ekleyebilir, güncelleyebilir veya silebilir.
+
+Kullanıcı Dostu Arayüz: İçerik yönetimi için sezgisel ve hızlı bir panel sunar.
+
+Esnek ve Özelleştirilebilir: CV tasarımı ve içerik yapısı kullanıcı ihtiyaçlarına göre özelleştirilebilir.
 ---
 
 ## ⚙️ Kullanılan Teknolojiler
