@@ -11,15 +11,15 @@ Kullanıcı Dostu Arayüz: İçerik yönetimi için sezgisel ve hızlı bir pane
 ---
 
 ## ⚙️ Kullanılan Teknolojiler
+| Katman           | Teknoloji                      | Sembol |
+| ---------------- | ------------------------------ | ------ |
+| Backend          | ASP.NET MVC5, C#               | 🛠     |
+| ORM              | Entity Framework               | 📦     |
+| Veritabanı       | SQL Server (SSMS)              | 🗃     |
+| Frontend         | HTML5, CSS3, Bootstrap, jQuery | 💻     |
+| Kimlik Doğrulama | Forms Authentication           | 🔐     |
+| IDE              | Visual Studio                  | 🖥️    |
 
-Katman	Teknoloji	Sembol
-Backend	ASP.NET MVC5, C#	🛠
-ORM	Entity Framework	📦
-Veritabanı	SQL Server (SSMS)	🗃
-Frontend	HTML5, CSS3, Bootstrap, jQuery	💻
-Kimlik Doğrulama	Forms Authentication	🔐
-IDE	Visual Studio	🖥️
-Açıklamalar
 
 Backend (🛠): Sunucu tarafı işlemleri ve iş mantığını yönetir.
 
