@@ -17,12 +17,12 @@ Admin paneli sayesinde kullanıcılar, CV sayfasındaki tüm içerikleri kolayca
 | Versiyon Kontrol   | Git & GitHub                       | 🌐      |
 
 ---
+
 ## 🚀 Kurulum Adımları
-
-Depoyu klonlayın:
-
-    ```bash
-   git clone https://github.com/busratay/MvcCv.git
+ 
+  Depoyu klonlayın:
+  ```bash
+ git clone https://github.com/busratay/MvcCv.git
    ```
 ---
 
