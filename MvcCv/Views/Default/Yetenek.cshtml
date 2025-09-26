@@ -1,0 +1,43 @@
+﻿@using MvcCv.Models.Entity
+@model List<TblYeteneklerim>
+
+<div class="resume-section-content">
+    <h2 class="mb-5">YETENEKLERİM</h2>
+    <div class="subheading mb-3">PROGRAMLAMA DİLLERİ & ARAÇLAR </div>
+    <ul class="list-inline dev-icons" style="display:flex; gap:20px; padding:0; list-style:none; align-items:center;">
+        <!-- HTML5 -->
+        <li><i class="fab fa-html5" style="color:#E34F26; font-size:4rem;"></i></li>
+        <!-- CSS3 -->
+        <li><i class="fab fa-css3-alt" style="color:#1572B6; font-size:4rem;"></i></li>
+        <!-- JavaScript -->
+        <li><i class="fab fa-js-square" style="color:#F7DF1E; font-size:4rem;"></i></li>
+        <!-- C# -->
+        <li>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+                 alt="C#" style="width:4rem; height:4rem;">
+        </li>
+        <!-- Python -->
+        <li><i class="fab fa-python" style="color:#306998; font-size:4rem;"></i></li>
+        <!-- Java -->
+        <li>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+                 alt="Java" style="width:4rem; height:4rem;">
+        </li>
+        <!-- Microsoft SQL Server -->
+        <li>
+            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+                 alt="Microsoft SQL Server" style="width:4rem; height:4rem;">
+        </li>
+    </ul>
+    <div class="subheading mb-3">BECERİLERİM</div>
+    <ul class="fa-ul mb-0">
+        @foreach (var x in Model)
+        {
+        <li>
+            <span class="fa-li"><i class="fas fa-check"></i></span>
+            @x.Yetenek
+        </li>
+        }
+    </ul>
+</div>
+
