@@ -8,20 +8,31 @@ Admin Paneli: Kullanıcılar, CV sayfasındaki tüm içerikleri (kişisel bilgil
 
 Kullanıcı Dostu Arayüz: İçerik yönetimi için sezgisel ve hızlı bir panel sunar.
 
-Esnek ve Özelleştirilebilir: CV tasarımı ve içerik yapısı kullanıcı ihtiyaçlarına göre özelleştirilebilir.
 ---
 
 ## ⚙️ Kullanılan Teknolojiler
 
-| Katman              | Teknoloji                          | Sembol |
-|--------------------|-----------------------------------|--------|
-| Backend            | ASP.NET MVC5, C#                   | ⚙️      |
-| ORM                | Entity Framework                   | 🗄      |
-| Veritabanı         | SQL Server (SSMS)                  | 💾      |
-| Frontend           | HTML5, CSS3, Bootstrap, jQuery     | 🎨      |
-| Kimlik Doğrulama   | Forms Authentication               | 🔑      |
-| IDE                | Visual Studio                      | 🖥      |
-| Versiyon Kontrol   | Git & GitHub                       | 🌐      |
+Katman	Teknoloji	Sembol
+Backend	ASP.NET MVC5, C#	🛠
+ORM	Entity Framework	📦
+Veritabanı	SQL Server (SSMS)	🗃
+Frontend	HTML5, CSS3, Bootstrap, jQuery	💻
+Kimlik Doğrulama	Forms Authentication	🔐
+IDE	Visual Studio	🖥️
+Açıklamalar
+
+Backend (🛠): Sunucu tarafı işlemleri ve iş mantığını yönetir.
+
+ORM (📦): Veritabanı ile backend arasındaki veri alışverişini kolaylaştırır.
+
+Veritabanı (🗃): Tüm kullanıcı ve CV verilerinin saklandığı katmandır.
+
+Frontend (💻): Kullanıcı arayüzü ve etkileşimli öğeler bu katmanda bulunur.
+
+Kimlik Doğrulama (🔐): Kullanıcı güvenliği ve erişim kontrollerini sağlar.
+
+IDE (🖥️): Geliştirme ortamı olarak Visual Studio kullanılmıştır.
+
 
 ---
 ## 📸 Ekran Görüntüleri
