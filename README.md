@@ -21,9 +21,6 @@ Admin paneli sayesinde kullanıcılar, CV sayfasındaki tüm içerikleri kolayca
 ### Veritabanı
 ![Veritabanı Ekranı](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/veritabani.png)
 
-### Login
-![Login Ekranı](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/Login.png)
-
 ### Cv Sayfası İletişim
 ![İletişim](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/CVIletisim.png)
 
@@ -33,8 +30,31 @@ Admin paneli sayesinde kullanıcılar, CV sayfasındaki tüm içerikleri kolayca
 ###  Cv Sayfası Eğitim
 ![Eğitim](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/CvEgitim.png)
 
----
+###  Cv Sayfası Hakkımda
+![Hakkımda](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/CvHakkimda.png)
 
+### Cv Sayfası Hobi
+![Hobi](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/CvHobi.png)
+
+### Cv Sayfası Sertifika
+![Sertifika](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/CvSertifika.png)
+
+###  Cv Sayfası Yetenek
+![Yetenek](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/CvYetenek.png)
+
+### Admin Login
+![Login Ekranı](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/Login.png)
+
+### Admin Panel İletişim
+![İletişim](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/iletisim.png)
+
+### Admin Panel Sosyal Medya
+![Sosyal Medya](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/sosyalmedya.png)
+
+### Admin Panel Yetenek
+![Yetenek](https://github.com/busratay/MvcCv/blob/master/MvcCv/screenshots/yetenek.png)
+---
+ 
 ## 🚀 Kurulum Adımları
  
   Depoyu klonlayın:
